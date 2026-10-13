@@ -12,7 +12,7 @@ A collection of 50 puzzles covering logical reasoning and problem-solving.
 👉 <a href="https://app.notion.com/p/Amogha-s-Puzzle-Rush-36499a29f77d80fba3c2ef01ee49513a?source=copy_link" target="_blank">Amogha's Puzzle Rush</a>
 
 **System Design**
-Notes covering High-Level Design (HLD), commonly asked system design problems.
+Notes covering High-Level Design, commonly asked system design problems.
 👉 <a href="https://app.notion.com/p/Amogha-s-System-Design-3b599a29f77d806fae14fa4b24b07ae2?source=copy_link" target="_blank">Amogha's System Design</a>
 
 **Applied AI**
